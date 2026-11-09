@@ -8,7 +8,8 @@ Trade, price and profit tracking for the Ultimate Team football transfer market.
 | Repositório / Repository | O que é / What it is |
 | --- | --- |
 | [backend](https://github.com/fc-trade-manager/backend) | API ASP.NET Core + PostgreSQL |
-| [frontend](https://github.com/fc-trade-manager/frontend) | Interface React (em breve / soon) |
+| [frontend](https://github.com/fc-trade-manager/frontend) | Interface React (WIP) |
+| [price-gen-script](link-vai-aqui) | Geração de preços com Python / Price Gen w Python (WIP) |
 | [api-tests](link-vai-aqui) | Testes de API / API tests (em breve / soon) |
 | [e2e-tests](link-vai-aqui) | Testes ponta a ponta / End-to-end tests (em breve / soon) |
 | [performance-tests](link-vai-aqui) | Testes de carga / Load tests (em breve / soon) |
